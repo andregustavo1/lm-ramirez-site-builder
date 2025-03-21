@@ -4,22 +4,22 @@ import { useEffect, useRef, useState } from 'react';
 
 const projects = [
   {
-    image: "./images/image2.png",
+    image: "/src/images/image2.png",
     title: "Montagem de Estrutura Metálica",
     description: "Projeto de montagem de galpão industrial com estrutura metálica completa."
   },
   {
-    image: "./images/image3.png",
+    image: "./src/images/image1.png",
     title: "Manutenção de Equipamentos",
     description: "Serviço de manutenção preventiva em maquinário industrial de alta performance."
   },
   {
-    image: "./images/image1.png",
+    image: "./src/images/image3.png",
     title: "Implementação de Tubulação Industrial",
     description: "Projeto e instalação de sistemas de tubulação para transporte de fluidos industriais."
   },
   {
-    image: "./images/image.png",
+    image: "./src/images/image.png",
     title: "Modernização de Planta",
     description: "Atualização tecnológica e estrutural de planta industrial para aumento de produtividade."
   },
