@@ -92,7 +92,7 @@ const Contact = () => {
           <div className={`${isVisible ? 'animate-slide-right' : 'opacity-0'}`}>
             <div className="relative rounded-xl overflow-hidden shadow-2xl h-[400px]">
               <img 
-                src="https://images.unsplash.com/photo-1431576901776-e539bd916ba2?auto=format&fit=crop&w=1200&q=80" 
+                src="https://navirai.ms.gov.br/wp-content/uploads/2024/11/111124-navirai-comemora-61-anos-de-emancipacao-e-se-consolida-como-cidade-polo-da-regiao-sul-do-ms-4-768x432.jpg" 
                 alt="LM Ramirez Instalações"
                 className="w-full h-full object-cover"
               />

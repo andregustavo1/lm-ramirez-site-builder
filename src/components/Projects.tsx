@@ -4,22 +4,22 @@ import { useEffect, useRef, useState } from 'react';
 
 const projects = [
   {
-    image: "https://images.unsplash.com/photo-1496307653780-42ee777d4833?auto=format&fit=crop&w=800&q=80",
+    image: "/public/image2.png",
     title: "Montagem de Estrutura Metálica",
     description: "Projeto de montagem de galpão industrial com estrutura metálica completa."
   },
   {
-    image: "https://images.unsplash.com/photo-1497604401993-f2e922e5cb0a?auto=format&fit=crop&w=800&q=80",
+    image: "/public/image3.png",
     title: "Manutenção de Equipamentos",
     description: "Serviço de manutenção preventiva em maquinário industrial de alta performance."
   },
   {
-    image: "https://images.unsplash.com/photo-1551038247-3d9af20df552?auto=format&fit=crop&w=800&q=80",
+    image: "/public/image1.png",
     title: "Implementação de Tubulação Industrial",
     description: "Projeto e instalação de sistemas de tubulação para transporte de fluidos industriais."
   },
   {
-    image: "https://images.unsplash.com/photo-1493397212122-2b85dda8106b?auto=format&fit=crop&w=800&q=80",
+    image: "/public/image.png",
     title: "Modernização de Planta",
     description: "Atualização tecnológica e estrutural de planta industrial para aumento de produtividade."
   },
