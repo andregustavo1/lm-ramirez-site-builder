@@ -1,22 +1,22 @@
 
-import { Shield, Tool, Settings, Wrench } from 'lucide-react';
+import { Shield, Wrench, Settings, Container } from 'lucide-react';
 import { useEffect, useRef, useState } from 'react';
 
 const services = [
   {
-    icon: <Tool className="w-8 h-8 text-blue-600" />,
-    title: "Manutenção Industrial",
-    description: "Manutenção preventiva e corretiva para garantir o perfeito funcionamento de equipamentos e sistemas industriais."
+    icon: <Wrench className="w-8 h-8 text-blue-600" />,
+    title: "Tanques de Armazenamento de Etanol",
+    description: "Instalação, manutenção e reforma de tanques de armazenamento para etanol com alta segurança e qualidade."
   },
   {
     icon: <Settings className="w-8 h-8 text-blue-600" />,
-    title: "Montagem Industrial",
-    description: "Instalação e montagem de estruturas, equipamentos e sistemas seguindo as melhores práticas de engenharia."
+    title: "Destilarias e Usinas",
+    description: "Serviços especializados para destilarias e usinas de açúcar e etanol, garantindo eficiência e produtividade."
   },
   {
-    icon: <Wrench className="w-8 h-8 text-blue-600" />,
-    title: "Caldeiraria e Soldagem",
-    description: "Serviços especializados de soldagem, corte e montagem de estruturas metálicas com alta precisão."
+    icon: <Container className="w-8 h-8 text-blue-600" />,
+    title: "Distribuidoras de Combustíveis",
+    description: "Soluções completas para distribuidoras e armazenadoras de combustíveis, atendendo às normas técnicas e de segurança."
   },
   {
     icon: <Shield className="w-8 h-8 text-blue-600" />,
