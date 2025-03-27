@@ -4,6 +4,26 @@ import { useEffect, useRef, useState } from 'react';
 
 const projects = [
   {
+    image: "/images/image copy 3.png",
+    title: "Araguaia d ml Distribuidora de combustíveis S/A",
+  },
+  {
+    image: "/images/image copy 4.png",
+    title: "Alpes Distribuidora de combustíveis",
+  },
+  {
+    image: "/images/image copy 5.png",
+    title: "TRP distribuidora de Combustíveis",
+  },
+  {
+    image: "/images/image copy 6.png",
+    title: "Usina Rio Amambai",
+  },
+  {
+    image: "/images/image copy 7.png",
+    title: "Destilaria Rio do Cachimbo",
+  },
+  {
     image: "/images/image2.png",
     title: "Montagem de Estrutura Metálica",
     description: "Projeto de montagem de galpão industrial com estrutura metálica completa."

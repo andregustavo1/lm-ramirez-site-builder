@@ -41,11 +41,10 @@ const About = () => {
           <div className={`w-full lg:w-1/2 ${isVisible ? 'animate-slide-left' : 'opacity-0'}`}>
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1200&q=80" 
+                src="/images/image copy 2.png" 
                 alt="Equipe LM Ramirez trabalhando"
                 className="w-full h-auto"
               />
-              <div className="absolute inset-0 bg-gradient-to-r from-blue-900/40 to-transparent pointer-events-none"></div>
             </div>
           </div>
           

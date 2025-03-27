@@ -6,6 +6,7 @@ import Services from "@/components/Services";
 import Projects from "@/components/Projects";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
+import Fleet from '@/components/Fleet';
 import WhatsAppButton from "@/components/WhatsAppButton";
 import { useEffect } from "react";
 
@@ -49,6 +50,7 @@ const Index = () => {
       <About />
       <Services />
       <Projects />
+      <Fleet></Fleet>
       <Contact />
       <Footer />
       <WhatsAppButton />
