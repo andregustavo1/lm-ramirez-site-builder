@@ -41,7 +41,7 @@ const About = () => {
           <div className={`w-full lg:w-1/2 ${isVisible ? 'animate-slide-left' : 'opacity-0'}`}>
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src="/images/image copy 2.png" 
+                src="/images/image copy 8.png" 
                 alt="Equipe LM Ramirez trabalhando"
                 className="w-full h-auto"
               />
